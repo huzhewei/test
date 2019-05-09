@@ -1,4 +1,4 @@
 # test
 my test
 first commit
-+today is bad
++today is good
